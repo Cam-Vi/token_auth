@@ -7,10 +7,6 @@
 ## 🔑 Login  
 ![Login](./public/img/login.png)  
 
-## 🍪 Cookie Login  
-![Cookie Login](./public/img/cookie_login.png)  
-
-
 ## 🎟️ Profile with Token  
 ![Profile with Token](./public/img/profile_with_token.png)  
 
